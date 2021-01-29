@@ -5,7 +5,7 @@ On click screenreading software, to filter out your current spotify songs name, 
 
 This is pretty usefull if you're using OBS for example, you can just add a 'Text (GDI+)' Source into your current scene, and add the created 'song_name.txt' file location as source to that text, inside it's properties in OBS.
 
-If it's not working properly and displaying another programs name, go to the source code into Line 6 (blacklist=['YourWord']); and add a random word of the wrong found window title in there, then restart the code.
+If it's not working properly and displaying another programs name, go to the source code into Line 6 (blacklist=['...']); and add a random word of the wrong found window title in there, then restart the code.
 
 If you wish to lower the time it looks for an new song, go edit line 19 where it says 's(10)' and edit the interger '10' to whatever time you wish in seconds.
 
