@@ -7,7 +7,7 @@ This is pretty usefull if you're using OBS for example, you can just add a 'Text
 
 If it's not working properly and displaying another programs name, go to the source code into Line 6 (blacklist=[...]); and add a random word of the wrong found window in there, then restart the code.
 
-If you wish to lower the time it looks for an new song, go edit line 19 where it says 's(10)' to whatever you wish. 
+If you wish to lower the time it looks for an new song, go edit line 19 where it says 's(10)' and edit the interger '10' to whatever time you wish in seconds.
 
 ## Known Bugs
 Not fixable: If you're listening to a Song right now but your Spotify client is not on the '🏠 Start' page, you'll most likely experience lag, so make sure to set a song or a playlist first, then navigate back to the Start page(top left corner), to avoid this.
