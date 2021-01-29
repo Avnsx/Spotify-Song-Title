@@ -12,7 +12,9 @@ Not fixable: If you're listening to a Song right now but your Spotify client is 
 If there's anything apart from this let me know in repo > issues.
 
 # Dependencies:
-pywinauto
+
+	pip install pywinauto
+
 
 # Additional Knowledge:
 I'm fully aware that there's an Spotify API that will exactly replicate the functionality of this code, but it requires you to run the official Spotify client, which I'm not doing, my Spotify user data is never going back to the Spotify Server, which makes it impossible for me to use their API.
