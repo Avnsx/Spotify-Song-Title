@@ -1,5 +1,5 @@
 # Spotify Song Name Fetcher
-
+![GitHub Logo](https://repository-images.githubusercontent.com/334050272/5decea00-6208-11eb-8b6f-b122675d1f97)
 ## Description
 On click screenreading software, to filter out your current spotify songs name, out of your window titles and then creates a file named 'song_name.txt' in the same directory you launched the code from. Once ran it will every 10 seconds overwrite the recently created file, with the current song & artist name like the following sample: 'Song: Boy Meets World by SANTANA ALI ♪' and also print it in the python console.
 
