@@ -1,7 +1,7 @@
 # Spotify Song Name Fetcher
 
 ## Description
-On click screenreading software, to filter out your current spotify songs name, out of your window titles and creates a file named 'song_name.txt' in the same directory you downloaded the code in which has the song name in it as follows 'Song: I Got You Flowers! by LoveJSan ♪'.
+On click screenreading software, to filter out your current spotify songs name, out of your window titles and creates a file named 'song_name.txt' in the same directory you downloaded the code in which has the song name in it as follows 'Song: I Got You Flowers! by LoveJSan ♪'. Once Started will every 10 seconds overwrite the recently created file, with the current song & artist name and also print it in the python console.
 
 This is pretty usefull if you're using OBS for example, you can just add a 'Text (GDI+)' Source into your current scene, and add the created 'song_name.txt' file location as source to that text, inside it's properties in OBS.
 
