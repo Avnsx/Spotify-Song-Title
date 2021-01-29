@@ -17,6 +17,7 @@ If there's anything apart from this let me know in repo > issues.
 
 	pip install pywinauto
 
+and also dependant on your python version and os version get the correct version of https://github.com/mhammond/pywin32/releases
 
 ## Additional Knowledge:
 I'm fully aware that there's an Spotify API that will exactly replicate the functionality of this code, but it requires you to run the official Spotify client, which I'm not doing, my Spotify user data is never going back to the Spotify Server, which makes it impossible for me to use their API.
