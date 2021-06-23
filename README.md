@@ -1,7 +1,7 @@
 # Spotify Song Name Reader
 ![GitHub Banner](https://repository-images.githubusercontent.com/334050272/9e9a3280-620b-11eb-883c-e4478e8cdfd8)
 ## Description
-On click screenreading software, to filter out your current spotify songs name, out of your Spotify Client and then creates a file named 'song_name.txt' in the same directory you launched the code from. Once ran it will every 10 seconds overwrite the recently created file, with the current song & artist name like the following sample: 'Song: Boy Meets World by SANTANA ALI ♪' and also print it in the python console.
+On click screenreading software(invisible in background), to filter out your current spotify songs name, out of your Spotify Client and then creates a file named 'song_name.txt' in the same directory you launched the code from. Once ran it will every 10 seconds overwrite the recently created file, with the current song & artist name like the following sample: 'Song: Boy Meets World by SANTANA ALI ♪' and also print it in the python console.
 
 This is pretty usefull if you're using OBS for example, you can just add a 'Text (GDI+)' Source into your current scene, and add the created 'song_name.txt' file location as source to that text, inside it's properties in OBS.
 
