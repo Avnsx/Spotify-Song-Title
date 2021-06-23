@@ -21,3 +21,5 @@ and also dependant on your python version and os version get the correct version
 
 ## Additional Knowledge:
 I'm fully aware that there's an Spotify API that will exactly replicate the functionality of this code, but it requires you to run the official Spotify client, which I'm not doing, my Spotify user data is never going back to the Spotify Server, which makes it impossible for me to use their API.
+
+Dependant on how many people show me that they're liking the code by giving stars on this repo, I'll expand functionality & push more quality of life updates.
