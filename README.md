@@ -1,7 +1,7 @@
 # Spotify Song Title Reader
 ![GitHub Banner](https://repository-images.githubusercontent.com/334050272/9e9a3280-620b-11eb-883c-e4478e8cdfd8)
 ## Description
-On click screenreading software(invisible in background), to crawl your current spotify songs name, out of your the Spotify Clients window Title which reveals the currently Song Title. It creates a file named ``song_name.txt`` in the same directory you launched the code from.
+One click code, to crawl your current spotify songs name & artist, out of the Spotify clients window title. It creates a file named ``song_name.txt`` in the same directory you launched the code from, which will contain the information.
 Once ran it will every 8-15 seconds(randomised) overwrite the recently created file, with the current song & artist name like in the following sample: ``Song: The Weeknd - The Hills ♪`` and also print it in the python console.
 
 This is pretty usefull if you're using OBS for example, you can just add a 'Text (GDI+)' Source into your current scene and add the created file that will always contain the current songs title location as source to that text, inside it's properties in OBS.
