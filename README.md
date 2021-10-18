@@ -22,4 +22,3 @@ I'm fully aware that there's an Spotify API that will exactly replicate the func
 
 Dependant on how many people show me that they're liking the code by giving ⭐'s on this repo, I'll expand functionality & push more quality of life updates.
 
-google-site-verification: google1231e540b9678c2a.html
