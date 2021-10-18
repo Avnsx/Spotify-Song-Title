@@ -21,3 +21,5 @@ Only if you get an error with win32api, you've to get the correct version(your p
 I'm fully aware that there's an Spotify API that will exactly replicate the functionality of this code, but it requires you to run the official Spotify client, which I'm not doing, my Spotify user data is never going back to the Spotify Server, which makes it impossible for me to use their API. For everyone that has the same issue or just doesn't want to deal with their API, you're welcome to use this repo 🎉
 
 Dependant on how many people show me that they're liking the code by giving ⭐'s on this repo, I'll expand functionality & push more quality of life updates.
+
+google-site-verification: google1231e540b9678c2a.html
