@@ -13,9 +13,7 @@ Else you'll need to install python and the dependencies below through python.
 ## Dependencies
 If you are using the raw source, paste below in cmd:
 
-	pip install pywinauto
-	pip install psutil
-	pip install pywin32
+	pip install pywinauto psutil pywin32
 
 Only if you get an error with win32api, you've to get the correct version(your python & OS version) of https://github.com/mhammond/pywin32/releases
 
