@@ -1,5 +1,4 @@
-import pywinauto,psutil,random
-from pywinauto.application import Application
+import psutil,random
 from pywinauto import Desktop
 from time import sleep as s
 
