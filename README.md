@@ -9,7 +9,8 @@ Once ran it will every 8-15 seconds(randomised) overwrite the recently created f
 This is pretty usefull if you're using OBS for example, you can just add a 'Text (GDI+)' Source into your current scene and add the created file that will always contain the current songs title location as source to that text, inside it's properties in OBS.
 
 ## Installation
-You can just install the executable file from the releases section on the right side on the github section.
+You can just install the [Executable version](https://github.com/Avnsx/Spotify-Song-Title/releases)
+
 Else you'll need to install python and the dependencies below through python.
 
 ## Dependencies
