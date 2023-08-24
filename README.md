@@ -1,5 +1,5 @@
 # Spotify Song Title Reader
-![Downloads](https://img.shields.io/github/downloads/Avnsx/Spotify-Song-Title/total?color=0078d7&label=🔽%20Downloads.exe&style=flat-square) ![Compatibility](https://img.shields.io/static/v1?style=flat-square&label=%F0%9F%90%8D%20Python&message=2.5%2B,%203%2B&color=blue) ![Stars](https://img.shields.io/github/stars/Avnsx/Spotify-Song-Title?style=flat-square&label=⭐%20Stars&color=ffc83d) [![Discord](https://img.shields.io/discord/522310203828338701?color=6A7EC2&label=Discord&logo=discord&logoColor=ffffff&style=flat-square)](https://discord.gg/Dr8wt84z2E)
+![Downloads](https://img.shields.io/github/downloads/Avnsx/Spotify-Song-Title/total?color=0078d7&label=🔽%20Downloads.exe&style=flat-square) ![Compatibility](https://img.shields.io/static/v1?style=flat-square&label=%F0%9F%90%8D%20Python&message=2.5%2B,%203%2B&color=blue) ![Stars](https://img.shields.io/github/stars/Avnsx/Spotify-Song-Title?style=flat-square&label=⭐%20Stars&color=ffc83d)
 
 ![GitHub Banner](https://repository-images.githubusercontent.com/334050272/9e9a3280-620b-11eb-883c-e4478e8cdfd8)
 ## Description
